@@ -1,0 +1,10 @@
+ 
+var tuple = (103, "tuple", 10.25)
+ 
+printf("%s owes us $%.2f\n", tuple._2, tuple._3)
+ 
+// Iterate through a tuple
+tuple.productIterator.foreach{ i => println(i)}
+ 
+// Convert Tuple to String
+println(tuple.toString())
