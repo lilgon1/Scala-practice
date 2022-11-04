@@ -4,13 +4,13 @@
 "Your answer " + res0
  
 // Define your own variable
-var myName = "Derek"
+var myName = "Agon"
  
 // Define your own constant variable
 val myAge = 40
  
 // You can define the type
-val lastName: String = "Banas"
+val lastName: String = "Kurti"
  
 // ---------- DATA TYPES ----------
  
